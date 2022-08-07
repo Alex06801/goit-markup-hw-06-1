@@ -569,6 +569,9 @@ body {
 .form-footer {
   margin-left: 93px;
 }
+.footer-form-btn-icon {
+  margin-left: 10px;
+}
 
 /* ========================PORTFOLIO========================= */
 .page-header-portfolio {
